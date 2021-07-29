@@ -50,6 +50,14 @@ $black: #2b2523
     display: flex
     justify-content: center
     align-items: center
+    &__filter
+      position: absolute
+      top: 0
+      left: 0
+      width: 100%
+      height: 100%
+      background: black
+      opacity: 0.4
 
 .btn
     display: inline-block
@@ -121,6 +129,10 @@ $menu-label-color: $white-ter
 .blog-list-item .featured-thumbnail
   flex-basis: 35%;
   margin: 0 1.5em 0 0;
+
+.navbar-item .logo_img
+  width: 350px;
+  max-height: none;
 
 
 @import "~bulma"

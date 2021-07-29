@@ -1,50 +1,36 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Insolitus - bo edukacja jest niezwykła!
+image: /img/hero_main.jpg
+heading: Insolitus - bo edukacja jest niezwykła!
+subheading: Dowiedz się więcej
 mainpitch:
-  title: Why Kaldi
+  title: Insolitus (łac. niezwykły, nadzwyczajny, wyjątkowy)
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Dla nas taka właśnie jest edukacja, nadzwyczajna, niezwykła i wyjątkowa. Jest arcyważna! I dokładnie dlatego powstała nasza fundacja.  
+    W Fundacji Insolitus mocno wierzymy, że w szkole jest miejsce na empatyczne relacje. Marzymy o szkole, w której każdy czuje się rozumiany, akceptowany, ważny i bezpieczny. Szerzymy ideę szkoły wspierającej i pomagającej zrozumieć otaczającą nas rzeczywistość. 
+
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Naszą misją jest wspieranie edukacji poprzez działania zwiększające samoświadomość, wiedzę i umiejętności współczesnego człowieka. Dlatego z radością wykorzystujemy nasze supermoce i tworzymy przestrzeń do realizacji niezwykłych pomysłów.  Wsłuchujemy się w głosy uczniów, nauczycieli, dyrekcji szkół, rodziców, opiekunów, psychologów, pedagogów i ekspertów edukacyjnych. Dlatego do współpracy, rozmów i projektów zapraszamy wszystkich, dla których edukacja jest kluczem do zbudowania lepszego świata. 
+
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/Kasia.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Katarzyna Narojczyk – prezeska fundacji, wulkan pozytywnej energii, magister pedagogiki specjalnej
+        ze specjalnością rewalidacja z terapią pedagogiczną, terapeuta integracji sensorycznej i bilateralnej
+        integracji. Kasia posiada kwalifikacje z zakresu coachingu, tutoringu, NVC, treningu umiejętności
+        społecznych i treningu zastępowania agresji. Od 12 lat jest mocno zaangażowana pracę z dziećmi i
+        młodzieżą, a od 3 lat jest związana zawodowo z L LO z Oddziałami Integracyjnymi im. Ruy Barbosy w
+        Warszawie, gdzie współtworzyła pierwszą w Polsce salę SI dla młodzieży szkół ponadpodstawowych..
+    - image: /img/Martyna3.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Martyna Salwa – wiceprezeska fundacji, anglistka, nauczycielka, koordynatorka projektów
+        edukacyjnych Comenius i Erasmus+, wielbicielka natury. Szczególnie bliska jest jej koncepcja edukacji
+        międzykulturowej. Martyna przez ponad 10 lat uczyła języka angielskiego, jednocześnie tworząc
+        partnerstwa z europejskimi szkołami i organizacjami na rzecz zwiększania świadomości i zrozumienia
+        różnorodności kulturowej. A to wszystko po to, żeby świat stał się bardziej życzliwym i przyjaznym
+        miejscem.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their

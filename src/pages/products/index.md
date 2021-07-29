@@ -11,19 +11,22 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/Kasia.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Katarzyna Narojczyk – prezeska fundacji, wulkan pozytywnej energii, magister pedagogiki specjalnej
+        ze specjalnością rewalidacja z terapią pedagogiczną, terapeuta integracji sensorycznej i bilateralnej
+        integracji. Kasia posiada kwalifikacje z zakresu coachingu, tutoringu, NVC, treningu umiejętności
+        społecznych i treningu zastępowania agresji. Od 12 lat jest mocno zaangażowana pracę z dziećmi i
+        młodzieżą, a od 3 lat jest związana zawodowo z L LO z Oddziałami Integracyjnymi im. Ruy Barbosy w
+        Warszawie, gdzie współtworzyła pierwszą w Polsce salę SI dla młodzieży szkół ponadpodstawowych..
+    - image: /img/martyna.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Martyna Salwa – wiceprezeska fundacji, anglistka, nauczycielka, koordynatorka projektów
+        edukacyjnych Comenius i Erasmus+, wielbicielka natury. Szczególnie bliska jest jej koncepcja edukacji
+        międzykulturowej. Martyna przez ponad 10 lat uczyła języka angielskiego, jednocześnie tworząc
+        partnerstwa z europejskimi szkołami i organizacjami na rzecz zwiększania świadomości i zrozumienia
+        różnorodności kulturowej. A to wszystko po to, żeby świat stał się bardziej życzliwym i przyjaznym
+        miejscem.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a

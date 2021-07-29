@@ -24,8 +24,11 @@ export const IndexPageTemplate = ({
         })`,
         backgroundPosition: `top left`,
         backgroundAttachment: `fixed`,
+        position: 'relative'
       }}
     >
+      <div className="full-width-image__filter">
+      </div>
       <div
         style={{
           display: 'flex',
@@ -34,17 +37,15 @@ export const IndexPageTemplate = ({
           justifyContent: 'space-around',
           alignItems: 'left',
           flexDirection: 'column',
+          zIndex: 1
         }}
       >
         <h1
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
-            boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
             color: 'white',
             lineHeight: '1',
-            padding: '0.25em',
+            padding: '0.25rem',
           }}
         >
           {title}
@@ -52,12 +53,9 @@ export const IndexPageTemplate = ({
         <h3
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
-            boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
             color: 'white',
             lineHeight: '1',
-            padding: '0.25em',
+            padding: '0.25rem',
           }}
         >
           {subheading}
@@ -75,15 +73,17 @@ export const IndexPageTemplate = ({
                     <h1 className="title">{mainpitch.title}</h1>
                   </div>
                   <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
+                    <p>{mainpitch.description}</p>
                   </div>
                 </div>
                 <div className="columns">
                   <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
-                      {heading}
-                    </h3>
                     <p>{description}</p>
+                  </div>
+                </div>
+                <div className="content">
+                  <div className="tile">
+                    <h1 className="title">{"Poznaj nasz zespół"}</h1>
                   </div>
                 </div>
                 <Features gridItems={intro.blurbs} />
