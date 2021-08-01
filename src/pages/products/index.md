@@ -23,16 +23,17 @@ intro:
         lat jest związana zawodowo z L LO z Oddziałami Integracyjnymi im. Ruy
         Barbosy w Warszawie, gdzie współtworzyła pierwszą w Polsce salę SI dla
         młodzieży szkół ponadpodstawowych.
-    - image: /img/martyna-green-2.jpg
+    - image: /img/martyna-green-2-kwadrat.jpg
       text: >
         Martyna Salwa – wiceprezeska fundacji, anglistka, nauczycielka,
-        koordynatorka projektów edukacyjnych Comenius i Erasmus+, wielbicielka
-        natury. Szczególnie bliska jest jej koncepcja edukacji międzykulturowej.
+        koordynatorka projektów edukacyjnych min. w ramach programów Comenius i
+        Erasmus+. Szczególnie bliska jest jej koncepcja edukacji
+        międzykulturowej oraz zagadnienia dotyczące zmiany i ochrony klimatu.
         Martyna przez ponad 10 lat uczyła języka angielskiego, jednocześnie
-        tworząc partnerstwa z europejskimi szkołami i organizacjami na rzecz
-        zwiększania świadomości i zrozumienia różnorodności kulturowej. A to
-        wszystko po to, żeby świat stał się bardziej życzliwym i przyjaznym
-        miejscem.
+        tworząc partnerstwa i projekty z europejskimi szkołami i organizacjami
+        na rzecz zwiększania świadomości ekologicznej oraz zrozumienia
+        różnorodności kulturowej. A to wszystko po to, żeby świat stał się
+        bardziej życzliwym i przyjaznym miejscem.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -40,7 +41,7 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Nasi przyjaciele i partnerzy
+  heading: Przyjaciele i partnerzy fundacji
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
@@ -58,11 +59,12 @@ main:
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: Martyna Salwa – wiceprezeska fundacji, anglistka, nauczycielka,
-      koordynatorka projektów edukacyjnych Comenius i Erasmus+, wielbicielka
-      natury. Szczególnie bliska jest jej koncepcja edukacji międzykulturowej.
-      Martyna przez ponad 10 lat uczyła języka angielskiego, jednocześnie
-      tworząc partnerstwa z europejskimi szkołami i organizacjami na rzecz
-      zwiększania świadomości i zrozumienia różnorodności kulturowej. A to
+      koordynatorka projektów edukacyjnych min. w ramach programów Comenius i
+      Erasmus+. Szczególnie bliska jest jej koncepcja edukacji międzykulturowej
+      oraz zagadnienia dotyczące zmiany i ochrony klimatu. Martyna przez ponad
+      10 lat uczyła języka angielskiego, jednocześnie tworząc partnerstwa i
+      projekty z europejskimi szkołami i organizacjami na rzecz zwiększania
+      świadomości ekologicznej oraz zrozumienia różnorodności kulturowej. A to
       wszystko po to, żeby świat stał się bardziej życzliwym i przyjaznym
       miejscem.
   - author: Philipp Trommler
