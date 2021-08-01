@@ -1,38 +1,21 @@
 ---
 templateKey: index-page
 title: Insolitus - bo edukacja jest niezwykła!
-image: /img/hero_main.jpg
+image: /img/people-2557396_1920.jpg
 heading: Insolitus - ponieważ edukacja jest niezwykła!
 subheading: Dowiedz się więcej
 mainpitch:
-  title: Insolitus (łac. niezwykły, nadzwyczajny, wyjątkowy)
+  title: Dlaczego Insolitus?
   description: >
-    Dla nas taka właśnie jest edukacja, nadzwyczajna, niezwykła i wyjątkowa.
-    Jest arcyważna! I dokładnie dlatego powstała nasza fundacja.   W Fundacji
-    Insolitus mocno wierzymy, że w szkole jest miejsce na empatyczne relacje.
-    Marzymy o szkole, w której każdy czuje się rozumiany, akceptowany, ważny i
-    bezpieczny. Szerzymy ideę szkoły wspierającej i pomagającej zrozumieć
-    otaczającą nas rzeczywistość. 
-description: "Naszą misją jest wspieranie edukacji poprzez działania
-  zwiększające samoświadomość, wiedzę i umiejętności współczesnego człowieka.
-  Dlatego z radością wykorzystujemy nasze supermoce i tworzymy przestrzeń do
-  realizacji niezwykłych pomysłów.  Wsłuchujemy się w głosy uczniów,
-  nauczycieli, dyrekcji szkół, rodziców, opiekunów, psychologów, pedagogów i
-  ekspertów edukacyjnych. Dlatego do współpracy, rozmów i projektów zapraszamy
-  wszystkich, dla których edukacja jest kluczem do zbudowania lepszego świata. "
+    Insolitus to z łac. to niezwykły, nadzwyczajny, wyjątkowy. Dla nas taka
+    właśnie jest edukacja, nadzwyczajna, niezwykła i wyjątkowa. Jest arcyważna!
+    I dokładnie dlatego powstała nasza fundacja. 
+description: Ta część na tekst ma być usunięta
 intro:
   blurbs:
-    - image: /img/Kasia.jpg
-      text: >
-        Katarzyna Narojczyk – prezeska fundacji, wulkan pozytywnej energii,
-        magister pedagogiki specjalnej ze specjalnością rewalidacja z terapią
-        pedagogiczną, terapeuta integracji sensorycznej i bilateralnej
-        integracji. Kasia posiada kwalifikacje z zakresu coachingu, tutoringu,
-        NVC, treningu umiejętności społecznych i treningu zastępowania agresji.
-        Od 12 lat jest mocno zaangażowana pracę z dziećmi i młodzieżą, a od 3
-        lat jest związana zawodowo z L LO z Oddziałami Integracyjnymi im. Ruy
-        Barbosy w Warszawie, gdzie współtworzyła pierwszą w Polsce salę SI dla
-        młodzieży szkół ponadpodstawowych..
+    - image: /img/check.png
+      text: |
+        Mocno wierzymy, że w szkole jest miejsce na dobre relacje.
     - image: /img/Martyna4.png
       text: >
         Martyna Salwa – wiceprezeska fundacji, anglistka, nauczycielka,
@@ -43,7 +26,11 @@ intro:
         zwiększania świadomości i zrozumienia różnorodności kulturowej. A to
         wszystko po to, żeby świat stał się bardziej życzliwym i przyjaznym
         miejscem.
-  heading: What we offer
+    - image: /img/check.png
+      text: >
+        Marzymy o szkole, w której każdy czuje się akceptowany, ważny i
+        bezpieczny. 
+  heading: W Fundacji Insolitus
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
