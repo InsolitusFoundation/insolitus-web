@@ -22,8 +22,8 @@ intro:
         Od 12 lat jest mocno zaangażowana pracę z dziećmi i młodzieżą, a od 3
         lat jest związana zawodowo z L LO z Oddziałami Integracyjnymi im. Ruy
         Barbosy w Warszawie, gdzie współtworzyła pierwszą w Polsce salę SI dla
-        młodzieży szkół ponadpodstawowych..
-    - image: /img/martyna.jpg
+        młodzieży szkół ponadpodstawowych.
+    - image: /img/martyna-green.jpg
       text: >
         Martyna Salwa – wiceprezeska fundacji, anglistka, nauczycielka,
         koordynatorka projektów edukacyjnych Comenius i Erasmus+, wielbicielka
