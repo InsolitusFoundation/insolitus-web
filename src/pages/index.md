@@ -13,7 +13,7 @@ mainpitch:
 description: Ta część na tekst ma być usunięta
 intro:
   blurbs:
-    - image: /img/check.png
+    - image: /img/projekt-bez-tytułu.png
       text: |
         Mocno wierzymy, że w szkole jest miejsce na dobre relacje.
     - image: /img/Martyna4.png
