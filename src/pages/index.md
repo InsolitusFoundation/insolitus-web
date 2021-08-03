@@ -7,14 +7,19 @@ subheading: Dowiedz się więcej
 mainpitch:
   title: O fundacji
   description: >
-    Insolitus (z łac. niezwykły, nadzwyczajny, wyjątkowy). Dla nas taka właśnie
-    jest edukacja, nadzwyczajna, niezwykła i wyjątkowa. Jest arcyważna! Jest
-    kluczem do zbudowania lepszego świata.  I dokładnie dlatego powstała
-    Fundacja Insolitus działająca na rzecz dobrej edukacji. 
-description: "Tutaj te 3 karteczki: W NASZE FUNDACJI: *Realizujemy projekty
-  wspierające nauczycieli i podnoszące jakość kształcenia. * Angażujemy się w
-  działania na rzecz uczniów ze specjalnymi potrzebami edukacyjnymi. *Szerzymy
-  ideę szkoły empatycznej i wspierającej.  "
+    Insolitus (z łac. niezwykły, nadzwyczajny, wyjątkowy). Dla nas taka jest
+    edukacja, nadzwyczajna, niezwykła i wyjątkowa. Jest arcyważna. Jest kluczem
+    do zbudowania lepszego świata.  I dokładnie dlatego powstała Fundacja
+    Insolitus działająca na rzecz dobrej edukacji. 
+description: "Naszą misją jest wspieranie edukacji poprzez działania
+  zwiększające samoświadomość, wiedzę i umiejętności współczesnego
+  człowieka.  Dlatego z radością wykorzystujemy nasze supermoce i tworzymy
+  przestrzeń do realizacji projektów rozwijających kompetencje kluczowe.
+  Szczególnie bliskie i ważne są dla nas działania skierowane do uczniów ze
+  specjalnymi potrzebami edukacyjnymi. Tutaj te 3 karteczki: W NASZE FUNDACJI:
+  *Realizujemy projekty wspierające nauczycieli i podnoszące jakość kształcenia.
+  * Angażujemy się w działania na rzecz uczniów ze specjalnymi potrzebami
+  edukacyjnymi. *Szerzymy ideę szkoły empatycznej i wspierającej.  "
 intro:
   blurbs:
     - image: /img/projekt-bez-tytułu.png
