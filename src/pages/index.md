@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Insolitus - bo edukacja jest niezwykła!
-image: /img/people-2557396_1920.jpg
+image: /img/people-2557399_1920.jpg
 heading: Insolitus - ponieważ edukacja jest niezwykła!
 subheading: Dowiedz się więcej
 mainpitch:
