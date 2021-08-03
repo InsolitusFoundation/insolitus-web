@@ -1,8 +1,9 @@
 ---
 templateKey: blog-post
-title: Od początku!
+title: Już działamy!
 date: 2021-08-03T17:41:27.929Z
-description: "Z radością ogłaszamy, że Fundacja Insolitus rozpoczyna "
+description: "Dzień dobry! Z radością informujemy, że już działamy i pracujemy
+  nad projektami dla naszych dzielnych uczniów i nauczycieli. "
 featuredpost: false
 featuredimage: /img/open-4033043_1920.jpg
 tags:
