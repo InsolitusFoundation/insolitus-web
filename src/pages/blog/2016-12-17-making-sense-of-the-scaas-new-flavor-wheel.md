@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: Od początku!
 date: 2021-08-03T17:41:27.929Z
-description: fgh
+description: "Z radością ogłaszamy, że Fundacja Insolitus rozpoczyna "
 featuredpost: false
-featuredimage: /img/start-1414148_1920.jpg
+featuredimage: /img/open-4033043_1920.jpg
 tags:
   - flavor
   - tasting
