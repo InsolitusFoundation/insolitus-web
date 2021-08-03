@@ -5,7 +5,7 @@ image: /img/people-2557396_1920.jpg
 heading: Insolitus - ponieważ edukacja jest niezwykła!
 subheading: Dowiedz się więcej
 mainpitch:
-  title: O fundacji
+  title: Misja fundacji
   description: >
     Insolitus (z łac. niezwykły, nadzwyczajny, wyjątkowy). Dla nas taka jest
     edukacja, nadzwyczajna, niezwykła i wyjątkowa. Jest arcyważna. Jest kluczem
