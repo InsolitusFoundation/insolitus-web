@@ -5,11 +5,12 @@ image: /img/people-2557396_1920.jpg
 heading: Insolitus - ponieważ edukacja jest niezwykła!
 subheading: Dowiedz się więcej
 mainpitch:
-  title: Dlaczego Insolitus?
+  title: O fundacji
   description: >
-    Insolitus to z łac. to niezwykły, nadzwyczajny, wyjątkowy. Dla nas taka
-    właśnie jest edukacja, nadzwyczajna, niezwykła i wyjątkowa. Jest arcyważna!
-    I dokładnie dlatego powstała nasza fundacja. 
+    Insolitus (z łac. niezwykły, nadzwyczajny, wyjątkowy). Dla nas taka właśnie
+    jest edukacja, nadzwyczajna, niezwykła i wyjątkowa. Jest arcyważna! Jest
+    kluczem do zbudowania lepszego świata. I dokładnie dlatego powstała Fundacja
+    Insolitus działająca na rzecz dobrej edukacji. 
 description: Ta część na tekst ma być usunięta
 intro:
   blurbs:
