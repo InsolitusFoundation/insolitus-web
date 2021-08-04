@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Insolitus - bo edukacja jest niezwykła!
+title: Insolitus - ponieważ edukacja jest niezwykła!
 image: /img/people-2557399_1920.jpg
 heading: Insolitus - ponieważ edukacja jest niezwykła!
 subheading: Dowiedz się więcej
@@ -16,13 +16,10 @@ description: "Naszą misją jest wspieranie edukacji poprzez działania
   człowieka.  Dlatego z radością wykorzystujemy nasze supermoce i tworzymy
   przestrzeń do realizacji projektów rozwijających kompetencje kluczowe.
   Szczególnie bliskie i ważne są dla nas działania skierowane do uczniów ze
-  specjalnymi potrzebami edukacyjnymi. Tutaj te 3 karteczki: W NASZE FUNDACJI:
-  *Realizujemy projekty wspierające nauczycieli i podnoszące jakość kształcenia.
-  * Angażujemy się w działania na rzecz uczniów ze specjalnymi potrzebami
-  edukacyjnymi. *Szerzymy ideę szkoły empatycznej i wspierającej.  "
+  specjalnymi potrzebami edukacyjnymi."
 intro:
   blurbs:
-    - image: /img/projekt-bez-tytułu.png
+    - image: /img/projekt-bez-tytulu.png
       text: |
         Mocno wierzymy, że w szkole jest miejsce na dobre relacje.
     - image: /img/Martyna4.png

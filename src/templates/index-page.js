@@ -50,7 +50,7 @@ export const IndexPageTemplate = ({
         >
           {title}
         </h1>
-        <h3
+        {/* <h3
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
             color: 'white',
@@ -59,7 +59,7 @@ export const IndexPageTemplate = ({
           }}
         >
           {subheading}
-        </h3>
+        </h3> */}
       </div>
     </div>
     <section className="section section--gradient">
@@ -81,9 +81,28 @@ export const IndexPageTemplate = ({
                     <p>{description}</p>
                   </div>
                 </div>
+                <div className="columns">
+                  <div className="column is-12">
+                    <div className="tile">
+                      <h1 className="title">{"Co robimy?"}</h1>
+                    </div>
+                    <div className="tile">
+                      <ul style={{marginTop: "0.5em"}}>
+                        <li>Realizujemy projekty wspierające nauczycieli i podnoszące jakość kształcenia.</li>
+                        <li>Angażujemy się w działania na rzecz uczniów ze specjalnymi potrzebami edukacyjnymi. </li>
+                        <li>Szerzymy ideę szkoły empatycznej i wspierającej.</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div className="columns">
+                  <div className="column is-12">
+
+                  </div>
+                </div>
                 <div className="content">
                   <div className="tile">
-                    <h1 className="title">{"Poznaj nasz zespół"}</h1>
+                    <h1 className="title">{"Nasz zespół"}</h1>
                   </div>
                 </div>
                 <Features gridItems={intro.blurbs} />
