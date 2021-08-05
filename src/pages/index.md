@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Insolitus - ponieważ edukacja jest niezwykła!
-image: /img/literature-3033196_1280n.jpg
+image: /img/literature-3033196_1280n2.jpg
 heading: Insolitus - ponieważ edukacja jest niezwykła!
 subheading: Dowiedz się więcej
 mainpitch:
